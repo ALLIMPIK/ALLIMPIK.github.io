@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "DINO",
+			"path": "."
+		},
+		{
+			"name": "source",
+			"path": "..\\..\\..\\sasha\\DINO\\source"
+		}
+	],
+	"settings": {}
+}
